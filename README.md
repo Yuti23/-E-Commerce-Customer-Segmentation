@@ -6,13 +6,13 @@ In this project, we delve deep into the thriving sector of online retail by anal
 **Data Cleaning & Transformation:**
 Clean the dataset by handling missing values, duplicates, and outliers, preparing it for effective clustering.
 
-**Feature Engineering: **
+**Feature Engineering:**
 Develop new features based on the transactional data to create a customer-centric dataset, setting the foundation for customer segmentation.
 
-**Data Preprocessing: **
+**Data Preprocessing:**
 Undertake feature scaling and dimensionality reduction to streamline the data, enhancing the efficiency of the clustering process.
 
-**Customer Segmentation using K-Means Clustering: **
+**Customer Segmentation using K-Means Clustering:**
 Segment customers into distinct groups using K-means, facilitating targeted marketing and personalized strategies.
 
 **Cluster Analysis & Evaluation:** 
